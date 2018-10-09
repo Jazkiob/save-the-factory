@@ -20,9 +20,9 @@ Cost per new machine: 5 $
 
 Investment in R&D can result in benefits in all ressorts including sales. It requires investment of both workers and money. A succesfull discovery can lead to a random improvement in any of the ressorts. (The impact of the improvement is described in the ressort itself)
 
-
-| Worker       | 0   | 1   | 2   | 3   | 4      |
-| Money   | 0 | 1 | 2 | 3 | 4 |
+| Worker        | 0   | 1   | 2     | 3     | 4     |
+|--------------|-----|-----|-----|-----|--------|
+| Money         | 0   | 1   | 2     | 3     | 4     |
 |--------------|-----|-----|-----|-----|--------|
 | Discovery    | 0% | 25% | 40% | 50% | 55% |
 
@@ -36,6 +36,7 @@ The "raw material" tiles represent the storage capacity of the factory. You can'
 1 tile = 3 Storage = 3 Pieces of raw materials
 
 | Worker       | 0   | 1   | 1   | 1   | 1      |
+|--------------|-----|-----|-----|-----|--------|
 | Money   | 0 | 1 | 2 | 3 | 4 |
 |--------------|-----|-----|-----|-----|--------|
 | Ressource    | 0 | 1 | 2 | 3 | 4 |
@@ -58,7 +59,7 @@ To emulate that sustainability is a long run investment it is considered as a re
 
 For each sustainability ressource +10 % that a worker joins the factory.
 
-
+s
 
 
 
